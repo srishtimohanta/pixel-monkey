@@ -1,0 +1,10 @@
+streamlit&gt;=1.28.0
+transformers&gt;=4.35.0
+torch&gt;=2.0.0
+huggingface-hub&gt;=0.19.0
+plotly&gt;=5.17.0
+pandas&gt;=2.0.0
+numpy&gt;=1.24.0
+python-dotenv&gt;=1.0.0
+requests&gt;=2.31.0
+Pillow&gt;=10.0.0
